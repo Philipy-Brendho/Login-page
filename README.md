@@ -1,5 +1,8 @@
 
 # Página de Login Estilizada
+<div align= 'center'>
+  <img src="https://github.com/Philipy-Brendho/Login-page/assets/165166315/31d38b3c-c34c-4012-b439-cba5856e0652" width="700px"/>
+</div>
 Este projeto tem como objetivo aprimorar minhas habilidades em desenvolvimento front-end, criando uma página de login estilizada. Sendo uma oportunidade para revisitar e praticar as tecnologias que estudei anteriormente: HTML5, CSS3, JavaScript, git e GitHub.
 
 ## Tecnologias  que serão/são Utilizadas
